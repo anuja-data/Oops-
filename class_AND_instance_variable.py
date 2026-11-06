@@ -9,4 +9,4 @@ class Student:
         print("College:", Student.college)
 
 s1 = Student("Anuja")
-s1.display
+s1.display()

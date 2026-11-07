@@ -14,4 +14,5 @@ class BankAccount:
 b = BankAccount(5000)
 
 b.deposit(2000)
+b.display()
 

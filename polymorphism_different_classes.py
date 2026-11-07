@@ -18,4 +18,5 @@ class Rectangle:
 shapes = [Circle(5), Rectangle(4, 6)]
 
 for shape in shapes:
-  
+    print(shape.area())
+    
